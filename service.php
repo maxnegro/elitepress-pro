@@ -13,8 +13,8 @@ if(!empty($service_options))
 	$pro_service_data = ( !isset($pro_service_data1['testimonial_title']) ) ? 'no' : $pro_service_data1['testimonial_title'];
 	if($pro_service_data!= 'no')
 	{
-		$args = array( 'post_type' => 'elitepress_service') ; 	
-		$service = new WP_Query( $args ); 
+		$args = array( 'post_type' => 'elitepress_service') ;
+		$service = new WP_Query( $args );
 		if( $service->have_posts() )
 			{
 				while ( $service->have_posts() ) : $service->the_post();
@@ -30,26 +30,26 @@ if(!empty($service_options))
 							'link'       => get_post_meta( get_the_ID(),'service_more_btn_link', true ),
 							'id'         => 'customizer_repeater_56d7ea7f40b96',
 							);
-				endwhile; 
+				endwhile;
 				$elitepress_service_content = json_encode($pro_service_data_old);
 			}
 	}
 	else
 	{
 		$page = get_option( 'theme_mods_elitepress','');
-			
+
 			if(isset($page['elitepress_service_content']))
 			{
-				foreach($page as $key => $value) 
+				foreach($page as $key => $value)
 				{
 					if($key == 'elitepress_service_content')
 						{
 							set_theme_mod( 'elitepress_service_content', $value );
 						}
 				}
-					
+
 			} else{
-				
+
 		$lite_service_data = get_option('elitepress_lite_options');
 		$elitepress_service_content = json_encode( array(
 		array(
@@ -61,7 +61,7 @@ if(!empty($service_options))
 		'link'       => '',
 		'id'         => 'customizer_repeater_56d7ea7f40b50',
 		),
-		
+
 		array(
 		'icon_value' => isset($lite_service_data['service_two_icon'])? $lite_service_data['service_two_icon']:'fa fa-tablet',
 		'title'      => isset($lite_service_data['service_two_title'])? $lite_service_data['service_two_title']:'Twitter Bootstrap 3.2.0',
@@ -71,7 +71,7 @@ if(!empty($service_options))
 		'link'       => '',
 		'id'         => 'customizer_repeater_56d7ea7f40b56',
 		),
-		
+
 		array(
 		'icon_value' => isset($lite_service_data['service_three_icon'])? $lite_service_data['service_three_icon']:'fa fa-edit',
 		'title'      => isset($lite_service_data['service_three_title'])? $lite_service_data['service_three_title']:'Exclusive support',
@@ -81,7 +81,7 @@ if(!empty($service_options))
 		'link'       => '',
 		'id'         => 'customizer_repeater_56d7ea7f40b56',
 		),
-		
+
 		array(
 		'icon_value' => isset($lite_service_data['service_four_icon'])? $lite_service_data['service_four_icon']:'fa fa-star-half-o',
 		'title'      => isset($lite_service_data['service_four_title'])? $lite_service_data['service_four_title']:'Incredibly flexible',
@@ -93,16 +93,16 @@ if(!empty($service_options))
 		),
 	) );
 	}}
-	
+
 }
 }
- 
-$elitepress_lite_options = theme_data_setup(); 
+
+$elitepress_lite_options = theme_data_setup();
 $current_options = wp_parse_args(  get_option( 'elitepress_lite_options', array() ), $elitepress_lite_options ); ?>
 <!-- Service Section -->
 <section class="service">
 	<div class="container">
-		
+
 		<!-- Section Title -->
 		<div class="row">
 			<div class="col-md-12 col-sm-12">
@@ -114,16 +114,16 @@ $current_options = wp_parse_args(  get_option( 'elitepress_lite_options', array(
 				<p class="section-subtitle"><?php echo esc_html($current_options['service_description']); ?></p>
 				<?php } ?>
 				</div>
-			</div>		
+			</div>
 		</div>
 		<!-- /Section Title -->
-		
+
 		<!-- Service Area -->
 		<?php elitepress_service_content( $elitepress_service_content ); ?>
 		<!-- /Service Area -->
 	</div>
 </section>
-<?php 
+<?php
 function elitepress_service_content( $elitepress_service_content, $is_callback = false ) {
 	if ( ! $is_callback ) { ?>
 		<div class="row">
@@ -145,8 +145,8 @@ function elitepress_service_content( $elitepress_service_content, $is_callback =
 			$link = ! empty( $features_item->link ) ? apply_filters( 'elitepress_translate_single_string', $features_item->link, 'Features section' ) : '';
 			$image = ! empty( $features_item->image_url ) ? apply_filters( 'elitepress_translate_single_string', $features_item->image_url, 'Features section' ) : '';
 			$button_text = !empty( $features_item->button_text ) ? apply_filters( 'elitepress_translate_single_string', $features_item->button_text, 'Features section' ) : '';
-			$open_new_tab = !empty( $features_item->open_new_tab ) ? apply_filters( 'elitepress_translate_single_string', $features_item->open_new_tab, 'Features section' ) : ''; 
-			
+			$open_new_tab = !empty( $features_item->open_new_tab ) ? apply_filters( 'elitepress_translate_single_string', $features_item->open_new_tab, 'Features section' ) : '';
+
 			if ( is_customize_preview() ) {
 			}
 			?>
@@ -154,12 +154,13 @@ function elitepress_service_content( $elitepress_service_content, $is_callback =
 				<div class="media service-area">
 					<?php if ( ! empty( $image ) ) : ?>
 						<?php if ( ! empty( $link ) ) : ?>
-						<div class="service-featured-img">
+							<!-- <div class="service-featured-img"> -->
+							<div class="service-box">
 							<img class="img-responsive" src="<?php echo esc_url( $image ); ?>" <?php if ( ! empty( $title ) ) : ?> alt="<?php echo esc_attr( $title ); ?>" title="<?php echo esc_attr( $title ); ?>" <?php endif; ?> />
-						</div>	
+						</div>
 						<?php endif; ?>
 					<?php endif; ?>
-						<?php if ( ! empty( $icon ) ) :?>
+						<?php if ( empty ($image) && ! empty( $icon ) ) :?>
 							<div class="service-box">
 									<i class="fa <?php echo esc_html( $icon ); ?>"></i>
 							</div>
@@ -178,26 +179,26 @@ function elitepress_service_content( $elitepress_service_content, $is_callback =
 					<?php } ?>
 					</h4>
 					<?php if ( ! empty( $text ) ) : ?>
-				
-								
+
+
 							<p><?php echo wp_kses( html_entity_decode( $text ), $allowed_html ); ?></p>
-							
+
 							<?php endif; ?>
-							
+
 							<?php if($button_text != '') {?>
 							<div class="service-btn">
 								<a href="<?php echo $link ?>" <?php if($open_new_tab== 'yes') { echo "target='_blank'"; } ?>><?php echo $button_text ?></a>
-							</div>	
+							</div>
 							<?php }?>
 
-					</div>			
+					</div>
 				</div>
 			</div>
 			<?php
 			endforeach;
 			}
 			else {
-			$service_defualttext = array(__('Responsive design','elitepress'), __('Twitter Bootstrap 3.2.0','elitepress'), 
+			$service_defualttext = array(__('Responsive design','elitepress'), __('Twitter Bootstrap 3.2.0','elitepress'),
 			__('Exclusive support','elitepress'), __('Incredibly flexible','elitepress'));
 			$font_awesome_icon = array('fa-laptop', 'fa-gift', '
 			fa-thumbs-o-up', 'fa-mobile');
@@ -229,11 +230,11 @@ if(empty($testimonial_options))
 	$pro_testimonial_data = get_option('elitepress_lite_options');
 			$pro_testimonial_title = ( !isset($pro_testimonial_data['testimonial_title']) ) ? 'no' : $pro_testimonial_data['testimonial_title'];
 			if($pro_testimonial_title!='no'){
-				
+
 						$count_posts = wp_count_posts( 'webriti_testimonial')->publish;
 						$args = array( 'post_type' => 'webriti_testimonial','posts_per_page' =>$count_posts);
-						$testimonial = new WP_Query( $args ); 
-						
+						$testimonial = new WP_Query( $args );
+
 						if( $testimonial->have_posts() )
 							{
 								while ( $testimonial->have_posts() ) : $testimonial->the_post();
@@ -246,8 +247,8 @@ if(empty($testimonial_options))
 								'open_new_tab' => false,
 								'id'    => 'customizer_repeater_56d7ea7f40b96',
 								);
-							
-								endwhile; 
+
+								endwhile;
 								$testimonial_options = json_encode($pro_testimonial_data_old);
 							}
 }
@@ -255,9 +256,9 @@ if(empty($testimonial_options))
 
 	?>
 <!-- Static Clients Section -->
-<section class="static-clients-section">		
+<section class="static-clients-section">
 	<div class="container">
-	
+
 		<!-- Section Title -->
 		<div class="row">
 			<div class="col-md-12 col-sm-12">
@@ -269,33 +270,33 @@ if(empty($testimonial_options))
 					<p class="section-subtitle"><?php echo esc_html($current_options['testimonial_description']); ?></p>
 					<?php } ?>
 				</div>
-			</div>		
+			</div>
 		</div>
 		<!-- /Section Title -->
-	
+
 		<!-- Clients -->
 		<div class="row">
 			<?php
 			$testimonial_options = json_decode($testimonial_options);
 					if( $testimonial_options!='' )
 						{
-					foreach($testimonial_options as $testimonial_iteam){ 
-							
+					foreach($testimonial_options as $testimonial_iteam){
+
 							$testimonial_title = ! empty( $testimonial_iteam->title ) ? apply_filters( 'elitepress_translate_single_string', $testimonial_iteam->title, 'Testimonial section' ) : '';
 							$text_desc = ! empty( $testimonial_iteam->text ) ? apply_filters( 'elitepress_translate_single_string', $testimonial_iteam->text, 'Testimonial section' ) : '';
 							$text_link = $testimonial_iteam->link;
 							$open_new_tab = $testimonial_iteam->open_new_tab;
-							
+
 							$designation = ! empty( $testimonial_iteam->designation ) ? apply_filters( 'elitepress_translate_single_string', $testimonial_iteam->designation, 'Testimonial section' ) : '';
-							
-		
+
+
 			?>
 			<div class="col-md-6">
 				<div class="static-client-area">
 					<div class="media">
 							<?php if($testimonial_iteam->image_url !=''){ ?>
 						<div class="static-client-img">
-							
+
 							<?php if($text_link!=''){?>
 								<a href="<?php echo $text_link; ?>" <?php if($open_new_tab == 'yes'){ echo 'target="_blank"';}?>>
 							<?php }?>
@@ -303,17 +304,17 @@ if(empty($testimonial_options))
 							<?php if($text_link!=''){?>
 								</a>
 								<?php }?>
-							
+
 						</div>
 						<?php } ?>
 						<div class="media-body client-border">
 							<?php if($text_desc!=''){ ?>
 					<p><?php echo $text_desc; ?></p>
-					<?php } ?>	
+					<?php } ?>
 						<h3 class="author-name">
 						<?php if($text_link!=''){?>
 						<a href="<?php echo $text_link; ?>" <?php if($open_new_tab == 'yes'){ echo 'target="_blank"';}?>><?php }?>
-						<?php echo $testimonial_title; ?> 
+						<?php echo $testimonial_title; ?>
 						<?php if($text_link!=''){?></a><?php }?>
 						<?php echo '&nbsp;&#45;&nbsp;'; ?><small class="designation"><?php if($designation !='') { echo $designation; } ?></small></h3>
 						</div>
@@ -342,14 +343,14 @@ if(empty($testimonial_options))
 			<?php } } ?>
 		</div>
 		<!-- /Clients -->
-		
+
 	</div>
 </section>
 <!-- /End of Static Clients Section -->
 <?php } ?>
 
 <!-- Clients Section -->
-<?php 
+<?php
 if( $current_options['service_page_client_disable'] == false ){
 		get_template_part('index','client');
 }

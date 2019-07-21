@@ -1,4 +1,4 @@
-<?php get_header(); 	
+<?php get_header();
 get_template_part('banner','header');
  ?>
 <!-- Blog Detail Section -->
@@ -8,27 +8,9 @@ get_template_part('banner','header');
 			<!--Blog Detail Area-->
 			<div class="<?php elitepress_post_layout_class(); ?>" >
 				<div class="site-content">
-				<?php 
+				<?php
 					while(have_posts()) { the_post();
 					 get_template_part('content',''); ?>
-					<!--Blog Author Info-->
-					<div class="author-info">
-						
-							<div class="author-avatar">
-								<?php echo get_avatar( get_the_author_meta('ID'), 100); ?>
-							</div>
-							
-								<div class="author-description">
-									<h5 class="author-title"><?php the_author_link(); ?></h5>
-									<p class="author-bio"><?php the_author_meta( 'description' ); ?></p>
-								</div>
-							
-							
-					</div>
-					<!--/Blog Author Info-->
-				<!--Comment Section-->
-				<?php comments_template('',true); ?>
-				<!--/Comment Section-->
 				<?php } ?>
 				</div>
 			</div>
@@ -39,7 +21,7 @@ get_template_part('banner','header');
 				</div>
 			</div>
 			<!--Sidebar Area-->
-		</div>	
+		</div>
 	</div>
 </section>
 <!-- Footer Section -->

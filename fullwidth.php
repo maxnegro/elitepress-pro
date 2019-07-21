@@ -1,13 +1,18 @@
-<?php 
-//Template Name:Fullwidth 
+<?php
+//Template Name:Fullwidth
 get_header();
-get_template_part('index', 'banner');
+get_template_part('banner', 'index');
 ?>
 <section class="blog-section">
 	<div class="container">
 		<div class="row">
 			<!--Blog Area-->
 			<div class="col-md-12">
+				<header class="site-header">
+					<h1 class="entry-title"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h1>
+					<?php if( has_post_thumbnail()){ elitepress_post_thumbnail(); } ?>
+					<div class="blog-seprator"></div>
+				</header>
 				<div class="site-content">
 					<div id="post-<?php the_ID(); ?>" <?php post_class('blog-full'); ?>>
 					<div class="entry-content"><?php the_post(); the_content( __('Read More','elitepress' ) ); ?></div>
@@ -16,7 +21,7 @@ get_template_part('index', 'banner');
 				</div>
 			</div>
 			<!--/Blog Area-->
-		</div>	
+		</div>
 	</div>
 </section>
 <!-- /Blog Full Width Section -->
