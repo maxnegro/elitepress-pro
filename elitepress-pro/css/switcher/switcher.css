@@ -1,0 +1,150 @@
+﻿/*!
+ * Style Switcher Css By Shahid - Scientech IT-------------------------------------------------!
+ */
+
+#style-switcher h3 {  
+	border-bottom: 1px dashed #838a90;
+    color: #e1e8ef;
+    font-family: 'LatoMedium';
+    font-size: 14px;
+	line-height: 20px;
+    font-weight: 600;
+	letter-spacing: 1;
+    margin: 20px 0 20px 1px;
+    padding-bottom: 5px;
+}
+#style-switcher {
+	background-color: #22262c;
+	position: fixed;
+	width: 205px;
+	top: 140px;
+	left: -206px;
+	z-index: 999;
+	border-radius: 0 0 3px 0;
+	border-bottom: 0;
+	border-top: 0;
+	border-right: 0;
+	border-left: 0;
+	box-shadow: 0px 0px 3px 0px rgba(0, 0, 0, 0.08);
+}
+#style-switcher div { padding: 3px 14px 0 14px; background: #22262c; }
+#style-switcher h2 { 
+	background-color: #22262c;
+	color: #fff;
+	font-size: 15px;
+	padding: 0 0 0 14px;
+	margin:0;
+	line-height: 40px;
+	font-family: 'LatoBold';
+}
+#style-switcher h2 a {
+	background-color: #22262c;
+	display: block;
+	height: 43px;
+	position: absolute;
+	right: -43px;
+	font-size:26px;
+	text-align:center;
+	padding: 0px;
+	color:#fff;
+	top: 0;
+	width: 43px;
+	text-decoration:none;
+	border-radius: 0 3px 3px 0;
+}
+#style-switcher h2 a > i { font-size: 22px; }	
+.btn_layout {
+	background-color: #18222b;
+    color: #ffffff;
+    border-radius: 2px;
+	border: 0px none;
+	font-family: 'LatoMedium';
+    display: inline-block;
+    font-size: 12px;
+	font-weight: 600;
+    letter-spacing: 1.5px;
+    line-height: 20px;
+    margin: 0 0 2px;
+    padding: 5px 18px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: all 0.3s ease 0s;
+    vertical-align: middle;
+}
+.colors { list-style: none; margin: 0 0px 30px 0; overflow: hidden; padding: 0px; }
+.colors li { float:left; margin: 0px 3px 6px 3px; }
+.colors li a {
+	display: block;
+	width: 38px;
+	height: 38px;
+	cursor: pointer;
+	border-radius: 0px;
+	border-collapse: separate;
+	border-spacing: 10px 50px;
+} 
+.layout-style select, .header-style select, 
+.footer-style select, .header-color input {
+	width: 164px;
+	padding: 2px 5px;
+	color: #888;
+	cursor: pointer;
+	border-radius: 2px;
+	font-size: 13px;
+	margin: 2px 0 2px 2px;
+}
+.header-color .sp-replacer { padding:4px 6px !important; }
+.header-color .sp-replacer .sp-dd, .header-color .sp-replacer .sp-preview, div.header-color {
+	padding:0px 1px !important;
+}
+.layout-style, .header-style, .header-color
+.footer-style { padding: 0 !important; }
+
+.default { background: #31a3dd; }
+.bittersweet { background: #f36557; }
+.red { background: #db2723; }
+.light-teal { background: #00ada7; }
+.golden {background: #ffb725; }
+.green {background: #82c14f; }
+.purple {background: #795cb0; }
+
+.bg1 { background-image: url("../../images/bg-patterns/bg1.jpg"); }
+.bg2 { background-image: url("../../images/bg-patterns/bg2.png"); }
+.bg3 { background-image: url("../../images/bg-patterns/bg3.png"); }
+.bg4 { background-image: url("../../images/bg-patterns/bg4.png"); }
+.bg5 { background-image: url("../../images/bg-patterns/bg5.png"); }
+	  
+
+
+/* This css for boxed layout */
+	  
+@media(min-width: 1200px) {
+
+body.boxed {
+    width: 1210px;
+    -webkit-box-shadow: 0 0 10px 0 rgba(48, 48, 48, 0.5);
+    box-shadow: 0 0 10px 0 rgba(48, 48, 48, 0.5);
+    margin: 25px auto;
+	position: relative;
+}
+
+}
+
+@media (min-width: 768px) and (max-width: 979px)  {
+
+body.boxed { width: 100%; }
+
+}
+
+@media (max-width: 767px) {
+
+body.boxed { width: 100%; /* padding: 0px 20px !important; */ }
+body { padding-left: 0px !important; padding-right: 0px !important; }
+	
+}
+
+@media (min-width: 980px) and (max-width: 1199px) {
+
+body.boxed { width: 100%; }
+	
+}   

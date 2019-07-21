@@ -1,0 +1,52 @@
+<wpml-config>
+	<admin-texts>
+		<key name='elitepress_lite_options'>
+			<key name='social_media_facebook_link' />
+			<key name='social_media_twitter_link' />
+			<key name='social_media_linkedin_link' />
+			<key name='social_media_googleplus_link' />
+			<key name='social_media_skype_link' />
+			<key name='social_media_dribbble_link' />
+			<key name='social_media_youtube_link' />
+			<key name='social_media_vimeo_link' />
+			<key name='social_media_pagelines_link' />
+			<key name='contact_email' />
+			<key name='contact_phone_number' />
+			<key name='header_call_out_title' />
+			<key name='header_call_out_description' />
+			<key name='header_call_out_btn_text' />
+			<key name='header_call_out_btn_link' />
+			<key name='service_title' />
+			<key name='service_description' />
+			<key name='portfolio_title' />
+			<key name='portfolio_description' />
+			<key name='portfolio_more_text' />
+			<key name='portfolio_more_link' />
+			<key name='testimonial_title' />
+			<key name='testimonial_description' />
+			<key name='blog_title' />
+			<key name='blog_description' />
+			<key name='footer_call_out_title' />
+			<key name='footer_call_out_contact' />
+			<key name='banner_title_category' />
+			<key name='banner_description_category' />
+			<key name='banner_title_archive' />
+			<key name='banner_description_archive' />
+			<key name='banner_title_author' />
+			<key name='banner_description_author' />
+			<key name='banner_title_404' />
+			<key name='banner_description_404' />
+			<key name='banner_title_tag' />
+			<key name='banner_description_tag' />
+			<key name='banner_title_search' />
+			<key name='banner_description_search' />
+			<key name='about_image_description_title' />
+			<key name='about_team_title' />
+			<key name='about_team_description' />
+			<key name='send_usmessage' />
+			<key name='contact_text' />
+			<key name='footer_copyright_text' />
+			<key name='front_contact_add_setting' />
+		</key>
+	</admin-texts>
+</wpml-config>

@@ -1,0 +1,1130 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: ElitePress WordPress Theme\n"
+"Language: es\n"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/404.php:12
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_banner.php:154
+msgid "404"
+msgstr "404"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/404.php:13
+msgid "Oops! Page not found"
+msgstr "¡Vaya! Página no encontrada"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/404.php:14
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr "Lo sentimos, pero la página que estás buscando no existe."
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/404.php:15
+msgid "Go Back"
+msgstr "Volver"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/aboutus.php:117
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/index-testimonial.php:1
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/service.php:130
+msgid "DEVELOPER"
+msgstr "DESARROLLADOR"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/aboutus.php:117
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/index-testimonial.php:1
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/service.php:130
+msgid "DESIGNER"
+msgstr "DISEÑADOR"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/archive.php:16
+msgid "Daily Archive"
+msgstr "Archivo diario"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/archive.php:18
+msgid "Monthly Archive"
+msgstr "Archivo mensual"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/archive.php:20
+msgid "Yearly Archive"
+msgstr "Archivo anual"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/archive.php:22
+msgid "Blog Archive"
+msgstr "Archivo del blog"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/author.php:15
+msgid "Author Archive %s"
+msgstr "Archivos del autor: %s"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/banner-header.php:44
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_banner.php:25
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_banner.php:34
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_banner.php:80
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_banner.php:126
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_banner.php:172
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_banner.php:218
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_banner.php:266
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:663
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:968
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:1033
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:1200
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:1345
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:1470
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/meta-box/post-meta.php:30
+msgid "Title"
+msgstr "Título"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/blog-full-width.php:45
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/blog-left-sidebar.php:52
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/blog-right-sidebar.php:46
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/template-tag.php:11
+msgid "By"
+msgstr "Por"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/blog-full-width.php:48
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/blog-left-sidebar.php:55
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/blog-right-sidebar.php:49
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/template-tag.php:16
+msgid "In"
+msgstr "Dentro"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/blog-full-width.php:53
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/blog-left-sidebar.php:59
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/blog-right-sidebar.php:53
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/fullwidth.php:23
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions.php:77
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions.php:145
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions.php:159
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/index-service.php:73
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/index-slider.php:32
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/theme_setup_data.php:70
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:686
+msgid "Read More"
+msgstr "Leer más"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/blog-full-width.php:54
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/blog-left-sidebar.php:60
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/blog-right-sidebar.php:54
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/content.php:54
+msgid "Page"
+msgstr "Página"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/category.php:15
+msgid "Category  Archive"
+msgstr "Archivo de categorías"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/comments.php:2
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Esta entrada está protegida por contraseña. Escribe la contraseña para ver los comentarios."
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/comments.php:14
+msgid "Reply"
+msgstr "Responder"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/comments.php:21
+msgid "Posted on"
+msgstr "Publicado en"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/comments.php:23
+msgid "Edit"
+msgstr "Editar"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/comments.php:29
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está pendiente de moderación"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/comments.php:41
+msgid "No Comments so far"
+msgstr "Sin comentarios hasta ahora"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/comments.php:41
+msgid "1 Comment so far"
+msgstr "1 comentario hasta ahora"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/comments.php:41
+msgid "% Comments so far"
+msgstr "% comentarios hasta ahora"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/comments.php:48
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/comments.php:49
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentarios anteriores"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/comments.php:50
+msgid "Newer Comments &rarr;"
+msgstr "Comentarios posteriores &rarr;"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/comments.php:54
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/comments.php:60
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment"
+msgstr "Debes estar <a href=\"%s\">conectado</a> para publicar un comentario"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/comments.php:66
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/contact.php:33
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/contact.php:34
+msgid "Name"
+msgstr "Nombre"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/comments.php:67
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/contact.php:37
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/contact.php:38
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:596
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/comments.php:76
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/contact.php:41
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/contact.php:42
+msgid "Message"
+msgstr "Mensaje"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/comments.php:77
+msgid "Logged in as"
+msgstr "Conectado como"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/comments.php:77
+msgid "Logout of this account"
+msgstr "Salir de esta cuenta"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/comments.php:77
+msgid "Logout"
+msgstr "Salir"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/comments.php:79
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/contact.php:45
+msgid "Send Message"
+msgstr "Enviar mensaje"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/comments.php:82
+msgid "Leave a Reply"
+msgstr "Deja un comentario"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/contact.php:23
+msgid "Thank you"
+msgstr "¡Gracias!"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/contact.php:23
+msgid "Your information has been sent."
+msgstr "Su información se ha enviado."
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/contact.php:46
+msgid "Sorry, your nonce did not verify"
+msgstr "Lo siento, tu nonce no se ha verificado"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions.php:50
+msgid "Page %s"
+msgstr "Página %s"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions.php:66
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions.php:67
+msgid "Footer Menu"
+msgstr "Menú del pie"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/header-menu-section.php:35
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_banner.php:248
+msgid "Search"
+msgstr "Buscar"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/index-blog.php:55
+msgid "No Posts to show"
+msgstr "No hay entradas que mostrar"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/index-service.php:62
+msgid "Responsive design"
+msgstr "Diseño adaptativo"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/index-service.php:62
+msgid "Twitter Bootstrap 3.2.0"
+msgstr "Twitter Bootstrap 3.2.0"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/index-service.php:63
+msgid "Exclusive support"
+msgstr "Soporte exclusivo"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/index-service.php:63
+msgid "Incredibly flexible"
+msgstr "Increíblemente flexible"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/index-slider.php:22
+msgid "elitepress by webriti themes"
+msgstr "elitepress por webriti themes"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/index-slider.php:22
+msgid "Clean & fresh design"
+msgstr "Diseño limpio y fresco"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/index-slider.php:31
+msgid "Create fresh website fast with us"
+msgstr "Crear sitio web fresco rápidamente con nosotros"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/search.php:12
+msgid "Search results for %s"
+msgstr "Resultados de búsqueda de: %s"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/search.php:32
+msgid "Nothing Found"
+msgstr "No se encontró nada"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/search.php:34
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Lo siento, pero no hay nada que coincida con tu criterio de búsqueda. Por favor, inténtalo de nuevo con otras palabras clave."
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/tag.php:15
+msgid "Tag Archive"
+msgstr "Archivo de etiquetas"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/theme_setup_data.php:68
+msgid "Want to say Hey or find out more?"
+msgstr "¿Quieres decir \"Hola\" o saber más?"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/theme_setup_data.php:76
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:1464
+msgid "WANNA STAY IN TOUCH"
+msgstr "QUIERE MANTENERSE EN CONTACTO"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/theme_setup_data.php:77
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:1478
+msgid "<strong>0048</strong>- 0987-654-321"
+msgstr "<strong>0048</strong>- 0987-654-321"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/theme_setup_data.php:83
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_footer_customization.php:24
+msgid "Copyright 2014 elitepress"
+msgstr "Copyright 2014 elitepress"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/theme_setup_data.php:83
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_footer_customization.php:24
+msgid "WordPress Theme"
+msgstr "Tema de WordPress"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/theme_setup_data.php:83
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_footer_customization.php:24
+msgid "All rights reserved"
+msgstr "Todos los derechos reservados"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/theme_setup_data.php:93
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_template_settings.php:40
+msgid "Meet our great team"
+msgstr "Conoce nuestro gran equipo"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/theme_setup_data.php:94
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_template_settings.php:55
+msgid "We provide best WordPress solutions for your business. Thanks to our framework you will get more happy customers"
+msgstr "Proporcionamos las mejores soluciones WordPress para tu negocio. Gracias a nuestra plataforma conseguirás muchos clientes felices"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/theme_setup_data.php:95
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_template_settings.php:25
+msgid "Our about us page"
+msgstr "Nuestra página Sobre nosotros"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/theme_setup_data.php:106
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_template_settings.php:220
+msgid "Send us a message"
+msgstr "Envíanos un mensaje"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/theme_setup_data.php:108
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_template_settings.php:236
+msgid "Contact Information"
+msgstr "Información de contacto"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/theme_setup_data.php:117
+msgid "Opening Hours"
+msgstr "Horario de apertura"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/theme_setup_data.php:119
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_template_settings.php:247
+msgid "Monday - Friday :"
+msgstr "Lunes - Viernes:"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/theme_setup_data.php:119
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/theme_setup_data.php:120
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_template_settings.php:247
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_template_settings.php:248
+msgid "9am to 17 pm"
+msgstr "9am a 17 pm"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/theme_setup_data.php:121
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_template_settings.php:249
+msgid "Sunday :"
+msgstr "Domingo :"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/theme_setup_data.php:121
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_template_settings.php:249
+msgid "day off"
+msgstr "día libre"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/theme_setup_data.php:107
+msgid "<div class=\"contact-detail\"><div class=\"comment-title\">\n"
+"\t\t\t<h3>"
+msgstr "<div class=\"contact-detail\"><div class=\"comment-title\">\n"
+"\t\t\t<h3>"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/theme_setup_data.php:142
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:1088
+msgid "All projects"
+msgstr "Todos los proyectos"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/theme_setup_data.php:147
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:1028
+msgid "Latest projects"
+msgstr "Últimos proyectos"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/theme_setup_data.php:157
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:1339
+msgid "Latest news"
+msgstr "Últimas noticias"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/theme_setup_data.php:164
+msgid "Our services"
+msgstr "Nuestros servicios"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/theme_setup_data.php:175
+msgid "What our clients say"
+msgstr "Lo que dicen nuestros clientes"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/theme_setup_data.php:188
+msgid "Category title"
+msgstr "Título de Categoría"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/theme_setup_data.php:191
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_banner.php:71
+msgid "Archive title"
+msgstr "Título del archivo"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/theme_setup_data.php:194
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_banner.php:117
+msgid "Author title"
+msgstr "Título del Autor"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/theme_setup_data.php:197
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_banner.php:163
+msgid "404 title"
+msgstr "Títilo de 404"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/theme_setup_data.php:200
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_banner.php:209
+msgid "Tag title"
+msgstr "Título de las etiquetas"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/theme_setup_data.php:203
+msgid "Search title"
+msgstr "Título de Buscar"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/custom-controls/select/taxonomy-dropdown-custom-control.php:35
+msgid "None"
+msgstr "Ninguna"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_banner.php:11
+msgid "Banner setting"
+msgstr "Ajustes de banner"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_banner.php:16
+msgid "Category"
+msgstr "Categoría"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_banner.php:53
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_banner.php:99
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_banner.php:145
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_banner.php:191
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_banner.php:237
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_banner.php:285
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:678
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:981
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:1046
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:1215
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:1358
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/meta-box/post-meta.php:8
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/meta-box/post-meta.php:31
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/meta-box/post-meta.php:32
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/meta-box/post-meta.php:49
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/meta-box/post-meta.php:51
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/meta-box/post-meta.php:97
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/meta-box/post-meta.php:98
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/meta-box/post-meta.php:110
+msgid "Description"
+msgstr "Descripción"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_banner.php:62
+msgid "Archive"
+msgstr "Archivo"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_banner.php:108
+msgid "Author"
+msgstr "Autor"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_banner.php:200
+msgid "Tag"
+msgstr "Etiqueta"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_banner.php:257
+msgid "Search Title"
+msgstr "Título de Buscar"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_footer_customization.php:11
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_footer_customization.php:16
+msgid "Footer copyright settings"
+msgstr "Ajustes del copyright del pie"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_footer_customization.php:31
+msgid "Copyright text"
+msgstr "Texto del Copyright"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_footer_customization.php:46
+msgid "Enable Footer Menu Bar"
+msgstr "Activar barra de menú en el pie"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:14
+msgid "Predefined colors"
+msgstr "Colores predefinidos"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:80
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:196
+msgid "Predefined default background"
+msgstr "Fondo predefinido por defecto"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:92
+msgid "Add your own background image"
+msgstr "Agregar u propia imagen de fondo"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:94
+msgid "Add your own background color"
+msgstr "Añadir tu propio color de fondo"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:111
+msgid "Homepage section setting"
+msgstr "Ajuste de sección de la página inicio"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:116
+msgid "Quick start"
+msgstr "Inicio Rápido"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:122
+msgid "Theme style setting"
+msgstr "Ajustes de estilo del tema"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:164
+msgid "Enable custom color skin"
+msgstr "Activar el color de skin personalizado"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:182
+msgid "Skin color"
+msgstr "Color del skin"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:216
+msgid "Social link & search bar"
+msgstr "Enlace social y barra de búsqueda"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:236
+msgid "Enable social icons"
+msgstr "Activar iconos sociales"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:254
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/meta-box/post-meta.php:55
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/meta-box/post-meta.php:56
+msgid "Facebook URL"
+msgstr "Url de Facebook"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:271
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:308
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:344
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:379
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:414
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:449
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:484
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:520
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:556
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:720
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:1121
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/meta-box/post-meta.php:57
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/meta-box/post-meta.php:61
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/meta-box/post-meta.php:65
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/meta-box/post-meta.php:85
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/meta-box/post-meta.php:116
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/meta-box/post-meta.php:126
+msgid "Open link in new tab"
+msgstr "Abrir enlace en una nueva pestaña"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:290
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/meta-box/post-meta.php:63
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/meta-box/post-meta.php:64
+msgid "Twitter URL"
+msgstr "Url de Twitter"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:326
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/meta-box/post-meta.php:59
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/meta-box/post-meta.php:60
+msgid "LinkedIn URL"
+msgstr "Url de Linkedin"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:362
+msgid "GooglePlus URL"
+msgstr "URL de GooglePlus"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:397
+msgid "Skype URL"
+msgstr "Url de Skype"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:432
+msgid "Dribble URL"
+msgstr "URL de Dribble"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:467
+msgid "Youtube URL"
+msgstr "URL de Youtube"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:503
+msgid "Vimeo URL"
+msgstr "URL de Vimeo"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:539
+msgid "Pagelines URL"
+msgstr "URL de Pagelines"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:565
+msgid "Header contact setting"
+msgstr "Ajustes del encabezado de \"Contacto\""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:580
+msgid "Enable email and phone number on header section."
+msgstr "Activar el correo electrónico y número de teléfono en el encabezado."
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:611
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:1484
+msgid "Phone"
+msgstr "Teléfono"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:619
+msgid "Search bar setting"
+msgstr "Ajustes de la barra de búsqueda"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:638
+msgid "Enable search bar on header"
+msgstr "Activar la barra de búsqueda en la cabecera"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:647
+msgid "Header home callout setting"
+msgstr "Ajustes de llamada de atención en la cabecera del inicio"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:657
+msgid "Want to say Hey or find out more"
+msgstr "¿Quieres decir hola? ¿Aprender más?"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:692
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:1093
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/meta-box/post-meta.php:81
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/meta-box/post-meta.php:82
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/meta-box/post-meta.php:112
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/meta-box/post-meta.php:113
+msgid "Button Text"
+msgstr "Texto del botón"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:706
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:1107
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/meta-box/post-meta.php:83
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/meta-box/post-meta.php:84
+msgid "Button Link"
+msgstr "Enlace del botón"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:734
+msgid "Enable Logo Text"
+msgstr "Activar texto del logo"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:749
+msgid "Custom Logo"
+msgstr "Logo personalizado"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:763
+msgid "Enter Logo Width"
+msgstr "Introducir ancho del logo"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:777
+msgid "Enter Logo Height"
+msgstr "Introducir altura del logo"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:792
+msgid "Site favicon"
+msgstr "Favicon del sitio"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:804
+msgid "Google tracking code"
+msgstr "Código de seguimiento de Google"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:817
+msgid "Custom CSS"
+msgstr "CSS personalizado"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:827
+msgid "Slider setting"
+msgstr "Ajustes del slider"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:839
+msgid "Enable home banner"
+msgstr "Activar banner del inicio"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:852
+msgid "Select slider type"
+msgstr "Elegir el tipo de slider"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:855
+msgid "Demo slider"
+msgstr "Slider de demostración"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:855
+msgid "Category slider"
+msgstr "Slider de categoría"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:866
+msgid "Select category for slider"
+msgstr "Elige categoría del slider"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:879
+msgid "Animation"
+msgstr "Animación"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:882
+msgid "slide"
+msgstr "slide"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:882
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:1234
+msgid "fade"
+msgstr "fundido"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:893
+msgid "Animation speed"
+msgstr "Velocidad de la animación"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:917
+msgid "Slideshow speed"
+msgstr "Velocidad de paso de las dispositivas"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:937
+msgid "Service settings"
+msgstr "Ajustes de servicio"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:949
+msgid "Number of services on service section"
+msgstr "Número de servicios en la sección \"Servicios\""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:995
+msgid "Click here to add service"
+msgstr "Haz clic aquí para añadir servicio"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:1019
+msgid "Portfolio settings"
+msgstr "Ajustes de Portafolio"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:1059
+msgid "Number of portfolio on project/portfolio section"
+msgstr "Número de porfolios en la sección proyecto/porfolio"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:1080
+msgid "Enable All Project Button."
+msgstr "Activar botón de Todos los proyectos."
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:1133
+msgid "Click here to add portfolio"
+msgstr "Haz clic aquí para añadir Porfolio"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:1160
+msgid "Select category for project"
+msgstr "Elige la categoría de proyecto"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:1172
+msgid "Testimonial setting"
+msgstr "Ajustes del testimonios"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:1184
+msgid "Background Image"
+msgstr "Imagen de fondo"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:1194
+msgid "What our clients says"
+msgstr "Lo que dicen nuestros clientes"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:1232
+msgid "Slide type variations"
+msgstr "Tipo de variaciones de la diapositiva"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:1234
+msgid "scroll"
+msgstr "scroll"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:1234
+msgid "cross fade"
+msgstr "Fundido"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:1234
+msgid "cover fade"
+msgstr "fundido cubierto"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:1252
+msgid "Scroll duration"
+msgstr "Duración del scroll"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:1282
+msgid "Time out duration"
+msgstr "Duración del tiempo límite"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:1308
+msgid "Click here to add testimonial"
+msgstr "Haz clic aquí para añadir recomendación"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:1329
+msgid "Blog settings"
+msgstr "Ajustes de blog"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:1371
+msgid "Select category for latest blog"
+msgstr "Elige la categoría para las últimas noticias"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:1388
+msgid "Select number of post"
+msgstr "Elegir el número de entradas"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:1398
+msgid "Client settings"
+msgstr "Ajustes de cliente"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:1413
+msgid "Click here to add client"
+msgstr "Haz clic aquí para añadir cliente"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:1435
+msgid "Footer callout settings"
+msgstr "Ajustes de la llamada de atención del pie"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_home_page.php:1454
+msgid "Enable footer call out area on front page."
+msgstr "Activar el área de llamada de atención del pie de la página principal"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_layout_manager.php:18
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_layout_manager.php:109
+msgid "Enable"
+msgstr "Activado"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_layout_manager.php:26
+msgid "Disable"
+msgstr "Desactivado"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_layout_manager.php:33
+msgid "Slider section always top on the home page"
+msgstr "La sección del slider siempre en la pagina de inicio"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_layout_manager.php:34
+msgid "Note"
+msgstr "Nota:"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_layout_manager.php:34
+msgid "By default all the section are enable on homepage. If you do not want to display any section just drag that section to the disabled box."
+msgstr "Por defecto todas las secciones están activadas en la página de inicio. Si no quieres mostrar alguna sección, sólo tienes que soltar esa sección en la caja de desactivados."
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_layout_manager.php:72
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_layout_manager.php:77
+msgid "Theme layout manager"
+msgstr "Gestor del diseño del tema"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_template_settings.php:11
+msgid "Template settings"
+msgstr "Ajustes de plantilla"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_template_settings.php:17
+msgid "About page setting"
+msgstr "Ajustes de la página \"Sobre nosotros\""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_template_settings.php:32
+msgid "Image description title"
+msgstr "Título de la descripción de imagen"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_template_settings.php:47
+msgid "Team Title"
+msgstr "Título de Equipo"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_template_settings.php:62
+msgid "Team Description"
+msgstr "Descripción del equipo"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_template_settings.php:77
+msgid "About page client section hide"
+msgstr "Ocultar la sección del cliente en al página sobre nosotros"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_template_settings.php:92
+msgid "About page team section hide"
+msgstr "Ocultar la sección equipo en la página Equipo"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_template_settings.php:107
+msgid "About page footer callout section hide"
+msgstr "Ocultar la sección de llamada de atención en el pie de la página Sobre Nosotros"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_template_settings.php:115
+msgid "Blog page setting"
+msgstr "Configuración de la página de blog"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_template_settings.php:130
+msgid "Enable meta on blog page"
+msgstr "Activar meta en la página del blog"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_template_settings.php:138
+msgid "Service page setting"
+msgstr "Ajustes de la página de servicio"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_template_settings.php:153
+msgid "Service page team section hide"
+msgstr "Ocultar sección de equipo de la página de servicio"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_template_settings.php:168
+msgid "Service page client section hide"
+msgstr "Ocultar de sección de client servicio de la página cliente"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_template_settings.php:183
+msgid "Service page footer callout section hide"
+msgstr "Ocultar sección de llamada de atención del pie de la página de servicio"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_template_settings.php:191
+msgid "Portfolio page setting"
+msgstr "Ajustes de la página de porfolio"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_template_settings.php:206
+msgid "Portfolio page footer callout section hide"
+msgstr "Ocultar sección de llamada de atención del pie de la página de cartera"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_template_settings.php:213
+msgid "Contact page setting"
+msgstr "Ajustes de la página de contacto"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_template_settings.php:227
+msgid "Contact form title text"
+msgstr "Título del formulario de Contacto"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_template_settings.php:245
+msgid "Opning hours"
+msgstr "Horario de apertura"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_template_settings.php:235
+msgid "<div class=\"contact-detail\">\n"
+"\t\t\t\t\t<div class=\"comment-title\"><h3>"
+msgstr "<div class=\"contact-detail\">\n"
+"\t\t\t\t\t<div class=\"comment-title\"><h3>"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_template_settings.php:257
+msgid "Contact customization text"
+msgstr "Texto de personalización de Contacto"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_template_settings.php:272
+msgid "Enable Google map on contact page"
+msgstr "Activar Google map en la página de contacto"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_template_settings.php:287
+msgid "Google map URL"
+msgstr "Url del mapa de Google"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_template_settings.php:302
+msgid "Contact page footer callout section hide"
+msgstr "Ocultar la sección de llamada de atención en el pie de la página Contacto"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_texonomy_portfolio.php:11
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_texonomy_portfolio.php:16
+msgid "Project archive page setting"
+msgstr "Ajustes de página de archivo de proyecto"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/customizer/customizer_texonomy_portfolio.php:31
+msgid "Select column layout"
+msgstr "Elija un diseño de columna"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/meta-box/post-meta.php:10
+msgid "Testimonial Details"
+msgstr "Detalles de recomendación"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/meta-box/post-meta.php:12
+msgid "Service Details"
+msgstr "Detalles del servicio"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/meta-box/post-meta.php:14
+msgid "Portfolio Details"
+msgstr "Detalles de los portfolios"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/meta-box/post-meta.php:16
+msgid "Team Detail"
+msgstr "Detalles del equipo"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/meta-box/post-meta.php:17
+msgid "Client Detail"
+msgstr "Datos del cliente"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/meta-box/post-meta.php:28
+msgid "Allow banner on page"
+msgstr "Permitir banner en la página"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/meta-box/post-meta.php:29
+msgid "Enter banner heading title"
+msgstr "Introducir el título del encabezado."
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/meta-box/post-meta.php:47
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/meta-box/post-meta.php:48
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/meta-box/post-meta.php:95
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/meta-box/post-meta.php:96
+msgid "Designation"
+msgstr "Denominación"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/meta-box/post-meta.php:53
+msgid "Social Media Setting"
+msgstr "Ajuste de Social Media"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/meta-box/post-meta.php:78
+msgid "Icon"
+msgstr "Ícono"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/meta-box/post-meta.php:78
+msgid "Get your fontawesome icons."
+msgstr "Consigue los iconos de fontawesome."
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/meta-box/post-meta.php:114
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/meta-box/post-meta.php:115
+msgid "Link"
+msgstr "Enlace"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/meta-box/post-meta.php:124
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/meta-box/post-meta.php:125
+msgid "URL"
+msgstr "URL"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/meta-box/post-meta.php:129
+msgid "Upload client image using feature image. Best fit scenario is using 130 X 130 px image."
+msgstr "Sube la imagen del cliente utilizando la imagen destacada. El mejor se consigue con una imagen de 130 x 130 píx."
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/post-type/custom-post-type.php:15
+msgid "Testimonial"
+msgstr "Recomendación"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/post-type/custom-post-type.php:16
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/post-type/custom-post-type.php:18
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/post-type/custom-post-type.php:45
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/post-type/custom-post-type.php:47
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/post-type/custom-post-type.php:75
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/post-type/custom-post-type.php:77
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/post-type/custom-post-type.php:104
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/post-type/custom-post-type.php:106
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/post-type/custom-post-type.php:132
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/post-type/custom-post-type.php:134
+msgid "Add New"
+msgstr "Añadir nuevo"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/post-type/custom-post-type.php:17
+msgid "Add New testimonial"
+msgstr "Añadir nueva recomendación"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/post-type/custom-post-type.php:19
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/post-type/custom-post-type.php:48
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/post-type/custom-post-type.php:78
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/post-type/custom-post-type.php:107
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/post-type/custom-post-type.php:135
+msgid "New Link"
+msgstr "Nuevo enlace"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/post-type/custom-post-type.php:20
+msgid "All testimonials"
+msgstr "Todas las recomendaciones"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/post-type/custom-post-type.php:21
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/post-type/custom-post-type.php:50
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/post-type/custom-post-type.php:80
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/post-type/custom-post-type.php:109
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/post-type/custom-post-type.php:137
+msgid "View Link"
+msgstr "Ver enlace"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/post-type/custom-post-type.php:22
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/post-type/custom-post-type.php:51
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/post-type/custom-post-type.php:81
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/post-type/custom-post-type.php:110
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/post-type/custom-post-type.php:138
+msgid "Search Links"
+msgstr "Enlaces de búsquedas"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/post-type/custom-post-type.php:23
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/post-type/custom-post-type.php:52
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/post-type/custom-post-type.php:82
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/post-type/custom-post-type.php:111
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/post-type/custom-post-type.php:139
+msgid "No Links found"
+msgstr "No se encontraron enlaces"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/post-type/custom-post-type.php:24
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/post-type/custom-post-type.php:53
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/post-type/custom-post-type.php:83
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/post-type/custom-post-type.php:112
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/post-type/custom-post-type.php:140
+msgid "No Links found in Trash"
+msgstr "No se encontraron enlace en la papelera"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/post-type/custom-post-type.php:44
+msgid "Portfolio / Project"
+msgstr "Porfolio / Proyecto"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/post-type/custom-post-type.php:46
+msgid "Add New Project"
+msgstr "Añadir nuevo proyecto"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/post-type/custom-post-type.php:49
+msgid "All Portfolio Project"
+msgstr "Todos los proyectos de porfolio"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/post-type/custom-post-type.php:74
+msgid "Service"
+msgstr "Servicio"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/post-type/custom-post-type.php:76
+msgid "Add New Service"
+msgstr "Amanda nuevo servicio"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/post-type/custom-post-type.php:79
+msgid "All Services"
+msgstr "Todos los servicios"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/post-type/custom-post-type.php:103
+msgid "Our Team"
+msgstr "Nuestro equipo"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/post-type/custom-post-type.php:105
+msgid "Add New Member"
+msgstr "Añadir nuevo miembro"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/post-type/custom-post-type.php:108
+msgid "All Team Member"
+msgstr "Todos los miembros del equipo"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/post-type/custom-post-type.php:130
+msgid "Client"
+msgstr "Cliente"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/post-type/custom-post-type.php:133
+msgid "Add New Client"
+msgstr "Añadir nuevo cliente"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/post-type/custom-post-type.php:136
+msgid "All Client"
+msgstr "Todos los clientes"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/taxonomies/taxonomies.php:6
+msgid "Portfolio categories"
+msgstr "Categorías de portfolio"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/widget/custom-sidebar.php:6
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/widget/custom-sidebar.php:8
+msgid "Sidebar widget area"
+msgstr "Área de widget de la barra lateral"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/widget/custom-sidebar.php:15
+#: D:\xampp\htdocs\wp7\wp-content\themes\elitepress-pro-customizer/functions/widget/custom-sidebar.php:17
+msgid "Footer widget area"
+msgstr "Área del widget del pie"
+

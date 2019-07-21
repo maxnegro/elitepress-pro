@@ -1,0 +1,1214 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Elitepress Pro\n"
+"POT-Creation-Date: 2017-12-22 19:36+0530\n"
+"PO-Revision-Date: 2017-12-22 19:36+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:12
+msgid "Error 404"
+msgstr ""
+
+#: 404.php:13
+msgid "Oops! Page not found"
+msgstr ""
+
+#: 404.php:14
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr ""
+
+#: 404.php:15
+msgid "Go back"
+msgstr ""
+
+#: aboutus.php:115 index-testimonial.php:108 service.php:325
+msgid "DEVELOPER"
+msgstr ""
+
+#: aboutus.php:115 index-testimonial.php:108 service.php:325
+msgid "DESIGNER"
+msgstr ""
+
+#: archive.php:17
+msgid "Daily Archive"
+msgstr ""
+
+#: archive.php:19
+msgid "Monthly Archive"
+msgstr ""
+
+#: archive.php:21
+msgid "Yearly Archive"
+msgstr ""
+
+#: archive.php:23
+msgid "Blog Archive"
+msgstr ""
+
+#: author.php:16
+#, php-format
+msgid "Author Archive %s"
+msgstr ""
+
+#: banner-header.php:43
+#: functions/customizer-repeater/class/customizer-repeater-control.php:256
+#: functions/customizer-repeater/class/customizer-repeater-control.php:405
+#: functions/customizer/customizer_banner.php:23
+#: functions/customizer/customizer_banner.php:32
+#: functions/customizer/customizer_banner.php:69
+#: functions/customizer/customizer_banner.php:78
+#: functions/customizer/customizer_banner.php:115
+#: functions/customizer/customizer_banner.php:124
+#: functions/customizer/customizer_banner.php:170
+#: functions/customizer/customizer_banner.php:207
+#: functions/customizer/customizer_banner.php:216
+#: functions/customizer/customizer_banner.php:255
+#: functions/customizer/customizer_banner.php:264
+#: functions/customizer/customizer_banner.php:299
+#: functions/customizer/customizer_banner.php:308
+#: functions/customizer/customizer_home_page.php:724
+#: functions/customizer/customizer_home_page.php:807
+#: functions/customizer/customizer_home_page.php:863
+#: functions/customizer/customizer_home_page.php:1030
+#: functions/customizer/customizer_home_page.php:1167
+#: functions/customizer/customizer_template_settings.php:29
+#: functions/meta-box/post-meta.php:26
+#: functions/widget/elitepress_contact_widget.php:73
+#: functions/widget/elitepress_header_widget.php:85
+#: taxonomy-portfolio_categories.php:14 theme_setup_data.php:193
+#: theme_setup_data.php:196 theme_setup_data.php:199 theme_setup_data.php:205
+#: theme_setup_data.php:208 theme_setup_data.php:211
+msgid "Title"
+msgstr ""
+
+#: category.php:16
+msgid "Category Archive"
+msgstr ""
+
+#: comments.php:2
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:14
+msgid "Reply"
+msgstr ""
+
+#: comments.php:21
+msgid "Posted on"
+msgstr ""
+
+#: comments.php:23
+msgid "Edit"
+msgstr ""
+
+#: comments.php:29
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:41
+msgid "No comments so far"
+msgstr ""
+
+#: comments.php:41
+msgid "1 comment so far"
+msgstr ""
+
+#: comments.php:41
+msgid "comments so far"
+msgstr ""
+
+#: comments.php:48
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:49
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:50
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:54
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:60
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:66 contact.php:35 contact.php:36
+msgid "Name"
+msgstr ""
+
+#: comments.php:67 contact.php:39 contact.php:40
+msgid "Email"
+msgstr ""
+
+#: comments.php:76 contact.php:43 contact.php:44
+msgid "Message"
+msgstr ""
+
+#: comments.php:77
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:78
+msgid "Log out from this Account"
+msgstr ""
+
+#: comments.php:78
+msgid "Log out"
+msgstr ""
+
+#: comments.php:80 contact.php:47
+msgid "Send Message"
+msgstr ""
+
+#: comments.php:83
+msgid "Leave a Reply"
+msgstr ""
+
+#: contact.php:25
+msgid "Thank you"
+msgstr ""
+
+#: contact.php:25
+msgid "Your information has been sent."
+msgstr ""
+
+#: contact.php:48
+msgid "Sorry, your nonce did not verify"
+msgstr ""
+
+#: content.php:15 fullwidth.php:13 functions.php:85 functions.php:159
+#: functions.php:178 functions/customizer/customizer_home_page.php:747
+#: index-service.php:207 index-slider.php:137 page.php:13 service.php:211
+#: theme_setup_data.php:73
+msgid "Read More"
+msgstr ""
+
+#: content.php:16 fullwidth.php:14 functions.php:58 page.php:14
+msgid "Page"
+msgstr ""
+
+#: functions.php:74
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:75
+msgid "Footer Menu"
+msgstr ""
+
+#: functions/custom-controls/select/taxonomy-dropdown-custom-control.php:35
+#: functions/customizer-repeater/class/customizer-repeater-control.php:604
+msgid "None"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:33
+msgid "Add new field"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:38
+msgid "Customizer Repeater"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:263
+#: functions/customizer-repeater/class/customizer-repeater-control.php:412
+msgid "Subtitle"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:270
+#: functions/customizer-repeater/class/customizer-repeater-control.php:419
+#: functions/customizer/customizer_banner.php:51
+#: functions/customizer/customizer_banner.php:97
+#: functions/customizer/customizer_banner.php:143
+#: functions/customizer/customizer_banner.php:189
+#: functions/customizer/customizer_banner.php:235
+#: functions/customizer/customizer_banner.php:283
+#: functions/customizer/customizer_banner.php:327
+#: functions/customizer/customizer_home_page.php:739
+#: functions/customizer/customizer_home_page.php:820
+#: functions/customizer/customizer_home_page.php:876
+#: functions/customizer/customizer_home_page.php:1045
+#: functions/customizer/customizer_home_page.php:1180
+#: functions/meta-box/post-meta.php:7 functions/meta-box/post-meta.php:27
+#: functions/meta-box/post-meta.php:28 functions/meta-box/post-meta.php:45
+#: functions/meta-box/post-meta.php:47 functions/meta-box/post-meta.php:73
+#: functions/widget/elitepress_header_widget.php:90
+msgid "Description"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:279
+#: functions/customizer-repeater/class/customizer-repeater-control.php:427
+#: functions/customizer/customizer_home_page.php:753
+#: functions/customizer/customizer_home_page.php:923
+#: functions/meta-box/post-meta.php:75 functions/meta-box/post-meta.php:76
+msgid "Button Text"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:290
+#: functions/customizer-repeater/class/customizer-repeater-control.php:437
+#: functions/customizer-repeater/class/customizer-repeater-control.php:626
+#: functions/customizer-repeater/class/customizer-repeater-control.php:648
+#: functions/meta-box/post-meta.php:77 functions/meta-box/post-meta.php:78
+msgid "Link"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:309
+#: functions/customizer-repeater/class/customizer-repeater-control.php:455
+msgid "Video Url"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:333
+#: functions/customizer-repeater/class/customizer-repeater-control.php:397
+msgid "Color"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:343
+#: functions/customizer-repeater/class/customizer-repeater-control.php:466
+msgid "Shortcode"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:351
+#: functions/customizer-repeater/class/customizer-repeater-control.php:475
+#: functions/meta-box/post-meta.php:43 functions/meta-box/post-meta.php:44
+msgid "Designation"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:367
+#: functions/customizer-repeater/class/customizer-repeater-control.php:486
+msgid "Delete field"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:523
+#: functions/customizer/customizer_home_page.php:781
+#: functions/customizer/customizer_home_page.php:951
+#: functions/meta-box/post-meta.php:53 functions/meta-box/post-meta.php:57
+#: functions/meta-box/post-meta.php:61 functions/meta-box/post-meta.php:79
+#: functions/meta-box/post-meta.php:89
+#: functions/widget/elitepress_social_icon.php:200
+#: functions/widget/elitepress_social_icon.php:206
+#: functions/widget/elitepress_social_icon.php:212
+#: functions/widget/elitepress_social_icon.php:218
+#: functions/widget/elitepress_social_icon.php:224
+#: functions/widget/elitepress_social_icon.php:230
+#: functions/widget/elitepress_social_icon.php:236
+#: functions/widget/elitepress_social_icon.php:242
+#: functions/widget/elitepress_social_icon.php:248
+msgid "Open link in new tab"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:534
+#: functions/customizer-repeater/class/customizer-repeater-control.php:602
+#: functions/widget/elitepress_header_widget.php:81
+msgid "Icon"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:539
+#, php-format
+msgid ""
+"Note: Some icons may not be displayed here. You can see the full list of "
+"icons at %1$s."
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:540
+msgid "http://fontawesome.io/icons/"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:557
+#: functions/customizer-repeater/class/customizer-repeater-control.php:603
+msgid "Image"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:560
+msgid "Upload Image"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:569
+msgid "Slide Format"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:573
+msgid "Standard"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:577
+msgid "Aside"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:581
+msgid "Quote"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:585
+msgid "Status"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:589
+msgid "Video"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:599
+msgid "Image type"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:612
+msgid "Social icons"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:629
+#: functions/customizer-repeater/class/customizer-repeater-control.php:659
+msgid "Remove Icon"
+msgstr ""
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:634
+#: functions/customizer-repeater/class/customizer-repeater-control.php:667
+msgid "Add Icon"
+msgstr ""
+
+#: functions/customizer/customizer.php:83
+#: functions/customizer/customizer.php:101
+#: functions/customizer/customizer.php:119 index-slider.php:128
+msgid "ElitePress by webriti themes"
+msgstr ""
+
+#: functions/customizer/customizer.php:84
+#: functions/customizer/customizer.php:93
+#: functions/customizer/customizer.php:102
+#: functions/customizer/customizer.php:111
+#: functions/customizer/customizer.php:120
+msgid "With our themes, you can create a stunning website in no time."
+msgstr ""
+
+#: functions/customizer/customizer.php:92
+#: functions/customizer/customizer.php:110 index-slider.php:128
+msgid "Clean & fresh design"
+msgstr ""
+
+#: functions/customizer/customizer.php:180
+msgid "Mitchell Doe"
+msgstr ""
+
+#: functions/customizer/customizer.php:181
+#: functions/customizer/customizer.php:191
+#: functions/customizer/customizer.php:200
+msgid ""
+"A responsive theme for all type of business that features multiple nav "
+"menus, several sidebars, and more. With pixel-perfect design, it's great for "
+"any blogger who wants a new look for their site. The theme is built using "
+"Twitter bootstrap."
+msgstr ""
+
+#: functions/customizer/customizer.php:190
+msgid "Anna Culan"
+msgstr ""
+
+#: functions/customizer/customizer.php:199
+msgid "Rocky Doe"
+msgstr ""
+
+#: functions/customizer/customizer.php:337 index-service.php:196
+#: service.php:200
+msgid "Responsive design"
+msgstr ""
+
+#: functions/customizer/customizer.php:338
+#: functions/customizer/customizer.php:348
+#: functions/customizer/customizer.php:358
+#: functions/customizer/customizer.php:369
+msgid ""
+"A responsive theme for all type of business that features multiple nav "
+"menus, several sidebars, and more. With pixel-perfect design"
+msgstr ""
+
+#: functions/customizer/customizer.php:347 index-service.php:196
+#: service.php:200
+msgid "Twitter Bootstrap 3.2.0"
+msgstr ""
+
+#: functions/customizer/customizer.php:357 index-service.php:197
+#: service.php:201
+msgid "Exclusive support"
+msgstr ""
+
+#: functions/customizer/customizer.php:368 index-service.php:197
+#: service.php:201
+msgid "Incredibly flexible"
+msgstr ""
+
+#: functions/customizer/customizer_banner.php:9
+msgid "Banner settings"
+msgstr ""
+
+#: functions/customizer/customizer_banner.php:14
+msgid "Category"
+msgstr ""
+
+#: functions/customizer/customizer_banner.php:60
+msgid "Archive"
+msgstr ""
+
+#: functions/customizer/customizer_banner.php:106
+msgid "Author"
+msgstr ""
+
+#: functions/customizer/customizer_banner.php:152
+msgid "404"
+msgstr ""
+
+#: functions/customizer/customizer_banner.php:161 theme_setup_data.php:202
+msgid "404 title"
+msgstr ""
+
+#: functions/customizer/customizer_banner.php:198
+msgid "Tag"
+msgstr ""
+
+#: functions/customizer/customizer_banner.php:246 header-menu-section.php:35
+#: searchform.php:2
+msgid "Search"
+msgstr ""
+
+#: functions/customizer/customizer_banner.php:291
+msgid "Portfolio category"
+msgstr ""
+
+#: functions/customizer/customizer_footer_customization.php:9
+#: functions/customizer/customizer_footer_customization.php:14
+msgid "Footer copyright settings"
+msgstr ""
+
+#: functions/customizer/customizer_footer_customization.php:36
+msgid "Footer background color"
+msgstr ""
+
+#: functions/customizer/customizer_footer_customization.php:45
+#: theme_setup_data.php:81
+msgid "©2017 All Rights Reserved - Webriti. - Designed and Developed by"
+msgstr ""
+
+#. Author of the plugin/theme
+#: functions/customizer/customizer_footer_customization.php:45
+#: theme_setup_data.php:81
+msgid "Webriti"
+msgstr ""
+
+#: functions/customizer/customizer_footer_customization.php:52
+msgid "Copyright text"
+msgstr ""
+
+#: functions/customizer/customizer_footer_customization.php:67
+msgid "Enable Footer Menu Bar"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:179
+msgid "Predefined colors"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:245
+#: functions/customizer/customizer_home_page.php:507
+msgid "Predefined default background"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:271
+msgid "Homepage section settings"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:276
+msgid "Quick start"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:290
+msgid "Show Logo text"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:305
+msgid "Upload logo"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:319
+msgid "Enter Logo width"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:333
+msgid "Enter Logo height"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:350
+msgid "Header Layout"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:381
+msgid "Site Favicon"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:393
+msgid "Google tracking code"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:406
+msgid "Custom CSS"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:414
+msgid "Theme style settings"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:422
+msgid "wide"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:433
+msgid "Theme Layout"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:475
+msgid "Enable custom color skin"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:493
+msgid "Skin color"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:523
+msgid "Header widget section"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:537
+#: functions/customizer/customizer_texonomy_portfolio.php:28
+msgid "Select column layout"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:551
+msgid "Click here to add a header widget"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:573
+msgid "Search bar settings"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:593
+msgid "Enable search bar on header"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:601
+msgid "Slider settings"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:613
+msgid "Enable slider"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:625
+msgid "Slider Content"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:628
+msgid "Add new slide"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:629
+#: functions/customizer/customizer_home_page.php:651
+msgid "slide"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:648
+msgid "Animation"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:651
+#: functions/customizer/customizer_home_page.php:1083
+msgid "fade"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:662
+msgid "Animation speed"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:686
+msgid "Slideshow speed"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:708
+msgid "Home header callout setting"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:718
+msgid "Want to say hey or find out more?"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:767
+#: functions/customizer/customizer_home_page.php:937
+msgid "Button Link"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:795
+msgid "Service settings"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:832
+msgid "Service Content"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:835
+msgid "Add new service"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:836
+msgid "Service"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:849
+msgid "Project settings"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:858 theme_setup_data.php:149
+msgid "Latest projects"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:889
+msgid "Input number of projects"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:910
+msgid "Display all project buttons"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:918 theme_setup_data.php:144
+msgid "All Projects"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:963
+msgid "Click here to add project"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:990
+msgid "Select category for project"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:1002
+msgid "Testimonials settings"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:1014
+msgid "Background Image"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:1024 theme_setup_data.php:180
+msgid "What our clients say"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:1054
+msgid "Testimonial Content"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:1056
+msgid "Add New Testimonial"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:1057
+msgid "Testimonial"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:1081
+msgid "Slide type variations"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:1083
+msgid "scroll"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:1099
+msgid "Scroll duration"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:1128
+msgid "Time out duration"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:1151
+msgid "Latest News Settings"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:1161 theme_setup_data.php:159
+msgid "Latest News"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:1193
+msgid "Select category for Latest News"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:1210
+msgid "Select the Number of Posts"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:1220
+msgid "Client settings"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:1235
+msgid "Click here to add client"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:1258
+msgid "Contact settings"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:1277
+msgid "Enable front page contact details"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:1290 theme_setup_data.php:89
+msgid ""
+"<div id=\"google-map-overlay\">\n"
+"\t\t\t\t\t<div class=\"elite-contact-info\">\n"
+"\t\t\t\t\t\t<h2 class=\"contact-title\">Contact Us</h2>\n"
+"\t\t\t\t\t\t<address>\n"
+"\t\t\t\t\t\t\t<strong><i class=\"fa fa-map-marker\" style=\"padding: 0 10px "
+"0 0;\"></i>500 North Side Boulevard,</strong><br>\n"
+"\t\t\t\t\t\t\tSan Francisco, CA, USA <br>\n"
+"\t\t\t\t\t\t</address>\n"
+"\t\t\t\t\t\t<address>\n"
+"\t\t\t\t\t\t\t<i class=\"fa fa-phone\" style=\"padding: 0 10px 0 0;\"></"
+"i>1-555-123-4567<br>\n"
+"\t\t\t\t\t\t\t<i class=\"fa fa-mobile\" style=\"padding: 0 10px 0 0;\"></i>"
+"+1 800 555 1234\n"
+"\t\t\t\t\t\t</address>\n"
+"\t\t\t\t\t\t<address>\n"
+"\t\t\t\t\t\t\t<a href=\"mailto:#\"><i class=\"fa fa-envelope-o\" style="
+"\"padding: 0 10px 0 0;\"></i>info@elitesupport.com</a><br>\n"
+"\t\t\t\t\t\t\t<a href=\"#\"><i class=\"fa fa-globe\" style=\"padding: 0 10px "
+"0 0;\"></i>www.elitepress.com</a>\n"
+"\t\t\t\t\t\t</address>\n"
+"\t\t\t\t\t</div>\n"
+"\t\t\t\t</div>"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:1312
+msgid "Contact"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:1330
+msgid "Enable front page map"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:1340
+msgid ""
+"<iframe src=\"https://snazzymaps.com/embed/36778\" width=\"100%\" height="
+"\"550px\" frameborder=\"0\" style=\"border:none;\"></iframe>"
+msgstr ""
+
+#: functions/customizer/customizer_home_page.php:1345
+msgid "Google Map URL"
+msgstr ""
+
+#: functions/customizer/customizer_layout_manager.php:16
+#: functions/customizer/customizer_layout_manager.php:107
+msgid "Enable"
+msgstr ""
+
+#: functions/customizer/customizer_layout_manager.php:24
+msgid "Disable"
+msgstr ""
+
+#: functions/customizer/customizer_layout_manager.php:31
+msgid "Slider has fixed position on homepage."
+msgstr ""
+
+#: functions/customizer/customizer_layout_manager.php:32
+msgid "Note"
+msgstr ""
+
+#: functions/customizer/customizer_layout_manager.php:32
+msgid ""
+"By default, all the sections are enabled on the homepage. If you do not want "
+"to display any section just drag that section to the disabled box."
+msgstr ""
+
+#: functions/customizer/customizer_layout_manager.php:70
+#: functions/customizer/customizer_layout_manager.php:75
+msgid "Theme Layout Manager"
+msgstr ""
+
+#: functions/customizer/customizer_template_settings.php:8
+msgid "Template settings"
+msgstr ""
+
+#: functions/customizer/customizer_template_settings.php:14
+msgid "About Us page settings"
+msgstr ""
+
+#: functions/customizer/customizer_template_settings.php:22
+#: theme_setup_data.php:113
+msgid "About Us"
+msgstr ""
+
+#: functions/customizer/customizer_template_settings.php:37
+#: theme_setup_data.php:111
+msgid "Meet our great team"
+msgstr ""
+
+#: functions/customizer/customizer_template_settings.php:44
+msgid "Team Title"
+msgstr ""
+
+#: functions/customizer/customizer_template_settings.php:52
+#: theme_setup_data.php:112
+msgid ""
+"We provide the best WordPress solutions for your business. Through our "
+"products you will be able to deliver more quality and gain more happy "
+"customers."
+msgstr ""
+
+#: functions/customizer/customizer_template_settings.php:59
+msgid "Team Description"
+msgstr ""
+
+#: functions/customizer/customizer_template_settings.php:74
+msgid "Hide client section from About Us page"
+msgstr ""
+
+#: functions/customizer/customizer_template_settings.php:89
+msgid "Hide team section from About Us page"
+msgstr ""
+
+#: functions/customizer/customizer_template_settings.php:96
+msgid "Blog page settings"
+msgstr ""
+
+#: functions/customizer/customizer_template_settings.php:111
+msgid "Hide post meta from blog pages, archive pages, categories, author, etc."
+msgstr ""
+
+#: functions/customizer/customizer_template_settings.php:119
+msgid "Service page settings"
+msgstr ""
+
+#: functions/customizer/customizer_template_settings.php:134
+msgid "Hide Team section from Service page"
+msgstr ""
+
+#: functions/customizer/customizer_template_settings.php:149
+msgid "Hide Client section from Service page"
+msgstr ""
+
+#: functions/customizer/customizer_template_settings.php:157
+msgid "Contact page setting"
+msgstr ""
+
+#: functions/customizer/customizer_template_settings.php:164
+#: theme_setup_data.php:124
+msgid "Send us a message"
+msgstr ""
+
+#: functions/customizer/customizer_template_settings.php:171
+msgid "Contact form title"
+msgstr ""
+
+#: functions/customizer/customizer_template_settings.php:186
+msgid "Enable Google Maps"
+msgstr ""
+
+#: functions/customizer/customizer_template_settings.php:201
+msgid "Google map URL"
+msgstr ""
+
+#: functions/customizer/customizer_texonomy_portfolio.php:8
+#: functions/customizer/customizer_texonomy_portfolio.php:13
+msgid "Project Archive page setting"
+msgstr ""
+
+#: functions/meta-box/post-meta.php:10
+msgid "Portfolio Details"
+msgstr ""
+
+#: functions/meta-box/post-meta.php:12
+msgid "Team Details"
+msgstr ""
+
+#: functions/meta-box/post-meta.php:13
+msgid "Client Details"
+msgstr ""
+
+#: functions/meta-box/post-meta.php:24
+msgid "Allow banners on the page"
+msgstr ""
+
+#: functions/meta-box/post-meta.php:25
+msgid "Enter the banner's heading title"
+msgstr ""
+
+#: functions/meta-box/post-meta.php:49
+msgid "Social media settings"
+msgstr ""
+
+#: functions/meta-box/post-meta.php:51 functions/meta-box/post-meta.php:52
+#: functions/widget/elitepress_social_icon.php:197
+msgid "Facebook URL"
+msgstr ""
+
+#: functions/meta-box/post-meta.php:55 functions/meta-box/post-meta.php:56
+#: functions/widget/elitepress_social_icon.php:215
+msgid "LinkedIn URL"
+msgstr ""
+
+#: functions/meta-box/post-meta.php:59 functions/meta-box/post-meta.php:60
+#: functions/widget/elitepress_social_icon.php:203
+msgid "Twitter URL"
+msgstr ""
+
+#: functions/meta-box/post-meta.php:87 functions/meta-box/post-meta.php:88
+msgid "URL"
+msgstr ""
+
+#: functions/meta-box/post-meta.php:92
+msgid ""
+"Upload client image using feature image. Best fit scenario is using 130 X "
+"130 px image."
+msgstr ""
+
+#: functions/post-type/custom-post-type.php:21
+#: functions/post-type/custom-post-type.php:23
+#: functions/post-type/custom-post-type.php:57
+#: functions/post-type/custom-post-type.php:59
+#: functions/post-type/custom-post-type.php:86
+#: functions/post-type/custom-post-type.php:88
+msgid "Add New"
+msgstr ""
+
+#: functions/post-type/custom-post-type.php:22
+msgid "Add New Portfolio / Project"
+msgstr ""
+
+#: functions/post-type/custom-post-type.php:24
+#: functions/post-type/custom-post-type.php:60
+#: functions/post-type/custom-post-type.php:89
+msgid "New Link"
+msgstr ""
+
+#: functions/post-type/custom-post-type.php:25
+msgid "All Portfolio / Projects"
+msgstr ""
+
+#: functions/post-type/custom-post-type.php:26
+#: functions/post-type/custom-post-type.php:62
+#: functions/post-type/custom-post-type.php:91
+msgid "View Link"
+msgstr ""
+
+#: functions/post-type/custom-post-type.php:27
+#: functions/post-type/custom-post-type.php:63
+#: functions/post-type/custom-post-type.php:92
+msgid "Search Links"
+msgstr ""
+
+#: functions/post-type/custom-post-type.php:28
+#: functions/post-type/custom-post-type.php:64
+#: functions/post-type/custom-post-type.php:93
+msgid "No Links found"
+msgstr ""
+
+#: functions/post-type/custom-post-type.php:29
+#: functions/post-type/custom-post-type.php:65
+#: functions/post-type/custom-post-type.php:94
+msgid "No Links found in Trash"
+msgstr ""
+
+#: functions/post-type/custom-post-type.php:58
+msgid "Add New Team"
+msgstr ""
+
+#: functions/post-type/custom-post-type.php:61
+msgid "All Teams"
+msgstr ""
+
+#: functions/post-type/custom-post-type.php:84
+msgid "Clients"
+msgstr ""
+
+#: functions/post-type/custom-post-type.php:87
+msgid "Add New Client"
+msgstr ""
+
+#: functions/post-type/custom-post-type.php:90
+msgid "All Clients"
+msgstr ""
+
+#: functions/taxonomies/taxonomies.php:5
+msgid "Portfolio Categories"
+msgstr ""
+
+#: functions/template-tag.php:12
+msgid "By"
+msgstr ""
+
+#: functions/template-tag.php:17
+msgid "In"
+msgstr ""
+
+#: functions/widget/custom-sidebar.php:8 functions/widget/custom-sidebar.php:10
+msgid "Sidebar widget area"
+msgstr ""
+
+#: functions/widget/custom-sidebar.php:19
+#: functions/widget/custom-sidebar.php:21
+msgid "Top header left area"
+msgstr ""
+
+#: functions/widget/custom-sidebar.php:30
+#: functions/widget/custom-sidebar.php:32
+msgid "Top header right area"
+msgstr ""
+
+#: functions/widget/custom-sidebar.php:41
+#: functions/widget/custom-sidebar.php:43
+msgid "Top header widget area"
+msgstr ""
+
+#: functions/widget/custom-sidebar.php:52
+#: functions/widget/custom-sidebar.php:54
+msgid "Contact sidebar widget area"
+msgstr ""
+
+#: functions/widget/custom-sidebar.php:63
+#: functions/widget/custom-sidebar.php:65
+msgid "Footer widget area"
+msgstr ""
+
+#: functions/widget/elitepress_contact_widget.php:13
+msgid "WBR: Contact Widget"
+msgstr ""
+
+#: functions/widget/elitepress_contact_widget.php:14
+msgid "Contact Widget"
+msgstr ""
+
+#: functions/widget/elitepress_contact_widget.php:79
+msgid "Field 1"
+msgstr ""
+
+#: functions/widget/elitepress_contact_widget.php:85
+msgid "Field 2"
+msgstr ""
+
+#: functions/widget/elitepress_contact_widget.php:91
+msgid "Field 3"
+msgstr ""
+
+#: functions/widget/elitepress_header_widget.php:13
+msgid "WBR: Header widget"
+msgstr ""
+
+#: functions/widget/elitepress_header_widget.php:16
+msgid "ElitePress header widget"
+msgstr ""
+
+#: functions/widget/elitepress_header_widget.php:42
+msgid "500 North Side Boulevard, San Francisco, CA, USA"
+msgstr ""
+
+#: functions/widget/elitepress_header_widget.php:69
+msgid "500 North Side Boulevard, San Francisco, CA, USA,"
+msgstr ""
+
+#: functions/widget/elitepress_header_widget.php:83
+msgid "Get your Font Awesome"
+msgstr ""
+
+#: functions/widget/elitepress_header_widget.php:83
+msgid "here"
+msgstr ""
+
+#: functions/widget/elitepress_social_icon.php:13
+msgid "WBR: Social icon"
+msgstr ""
+
+#: functions/widget/elitepress_social_icon.php:16
+msgid "ElitePress social icons widget"
+msgstr ""
+
+#: functions/widget/elitepress_social_icon.php:209
+msgid "Google-Plus URL"
+msgstr ""
+
+#: functions/widget/elitepress_social_icon.php:221
+msgid "Instagram URL"
+msgstr ""
+
+#: functions/widget/elitepress_social_icon.php:227
+msgid "Youtube URL"
+msgstr ""
+
+#: functions/widget/elitepress_social_icon.php:233
+msgid "Skype URL"
+msgstr ""
+
+#: functions/widget/elitepress_social_icon.php:239
+msgid "Vimeo URL"
+msgstr ""
+
+#: functions/widget/elitepress_social_icon.php:245
+msgid "Dribble URL"
+msgstr ""
+
+#: index-blog.php:57
+msgid "No Posts to show"
+msgstr ""
+
+#: index-slider.php:136
+msgid "Create fresh website fast with us"
+msgstr ""
+
+#: search.php:12
+#, php-format
+msgid "Search results for %s"
+msgstr ""
+
+#: search.php:32
+msgid "Nothing Found"
+msgstr ""
+
+#: search.php:34
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: tag.php:15
+msgid "Tag Archive"
+msgstr ""
+
+#: theme_setup_data.php:71
+msgid "Want to say Hey or find out more?"
+msgstr ""
+
+#: theme_setup_data.php:166
+msgid "Our services"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Elitepress Pro"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://webriti.com/"
+msgstr ""
